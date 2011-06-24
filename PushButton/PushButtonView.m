@@ -2,6 +2,8 @@
 //  PushButtonView.m
 //  PushButton
 //
+//  Push button for iOS (iPhone, iPad, iTouch) apps
+//
 //  Created by Karmadude on 5/26/11.
 //  Copyright 2011 VUnite Media. All rights reserved.
 //
